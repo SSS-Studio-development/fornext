@@ -34,7 +34,7 @@ Don't worry if you don't know any of these , you'll learn them.
 + To tangling and converting the org file to code and documents we use a
   makefile, you can check one of the make file [[https://github.com/SSS-Studio-development/web-services/blob/develop/makefile][here]] . make sure you take care
   of the directory structure .
-+ Contact [[travula@vlabs.ac.in][Thirumal]] if you have any doubt regarding the matter. 
++ Contact [[mailto:travula@vlabs.ac.in][Thirumal]] if you have any doubt regarding the matter. 
 
 
 Note: if you are completely unaware of some of the above , I think you
@@ -119,6 +119,7 @@ parts.
 + joiner - [[https://github.com/SSS-Studio-development/release2/tree/master/src/joiner][link]]  
 
 Please contact any of us if you have any questions .
+
 
 * What next 
 
